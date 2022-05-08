@@ -105,4 +105,4 @@ Para mais informações, entre em contato pelo seguinte e-mail: thallesequfrn@gm
 - Aluno: Thalles Senna Diógenes;
 - Prof. Tiago dos Santos (Back-end e Banco de Dados);
 - Prof. Alex Carneiro (Back-end);
-- Leonardo Gomes (Front-end).
+- Prof. Leonardo Gomes (Front-end).
