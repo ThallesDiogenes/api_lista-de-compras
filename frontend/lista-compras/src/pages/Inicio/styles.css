@@ -1,0 +1,11 @@
+.inicio__container {
+    display: flex;
+    text-align: center;
+    height: 100%;
+    background-color: white;
+}
+
+.image__center {
+    opacity: 0.3;
+    width: 40%;
+}

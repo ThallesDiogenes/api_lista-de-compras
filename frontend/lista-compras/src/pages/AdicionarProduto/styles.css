@@ -1,0 +1,30 @@
+.produto__container{
+    padding: 16px;
+}
+
+.produto__container h1 {
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+}
+
+.form_container {
+    display: flex;
+    justify-content: center;
+    border: 5px solid #00b5fc88;
+    margin: 0 auto;
+    border-radius: 10px;
+    width: 35%;
+    padding-top: 30px;
+}
+
+.add_info {
+    margin-left: 18px;
+    border-radius: 10px;
+}
+
+.form_button {
+    display: flex;
+    justify-content: center;
+    margin-left: 80px;
+}

@@ -1,0 +1,30 @@
+.produto__container {
+    width: 100%;
+    max-width: 1200px;
+    background-color: white;
+    height: 100%;
+}
+
+.produto__card__container {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+
+.produto__container h1 {
+    font-size: 50px;
+    color: rgba(211, 211, 211);
+    text-transform: uppercase;
+}
+
+.card {
+    margin: 5% auto;
+    background-color: rgba(211, 211, 211, 0.5);
+    transition: 300ms;
+    border-radius: 10px;
+
+}
+.card:hover {
+    transform: scale(1.1);
+    background-color: #00b5fc88;
+}

@@ -1,0 +1,63 @@
+@import '~antd/dist/antd.css';
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap');
+
+.main {
+  height: 100vh; 
+}
+
+.main__content {
+  height: inherit;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  background-color: #00b4fc;
+  color: white;
+  font-size: 46px;
+  font-weight: 700;
+  font-family: 'Dancing Script', cursive;
+}
+
+.menu {
+  background-color: #00b5fc1e;
+  padding: 12px;
+}
+
+.avatar {
+  display: block;
+  text-align: center;
+  margin: 20px auto 20px;
+}
+
+.footer {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  background-color: #00b5fc;
+  text-align: center;
+  font-weight: 600;
+  font-size: 12px;
+  color: white;
+}
+
+.menu__section {
+  background-color: #00b5fc1e;
+}
+
+.social {
+  display: flex;
+}
+
+.social_icons {
+  margin: 5px 10px 0;
+  background-color: gray;
+  color: white;
+}
+
+.social_icons:hover {
+  transform: scale(1.2);
+  background-color: rgba(128, 128, 128, 0.500);
+  cursor: pointer;
+}
