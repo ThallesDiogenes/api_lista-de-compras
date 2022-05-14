@@ -99,6 +99,7 @@ $ npm run start
 
 ## ----------------------------------------------------------------
 
+O website desenvolvido neste projeto pode ser visualizado também no YouTube através do seguinte link: [Projeto API - Lista de Compras](https://www.youtube.com/watch?v=vBn5mE0PCiw)
 Para mais informações, entre em contato pelo seguinte e-mail: thallesequfrn@gmail.com
 
 ## Autoria
